@@ -1,0 +1,8 @@
+res://scences/ui/main_menu.tscn
+res://resources/theme/theme.tres
+res://scences/component/RandomStreamPlayer2D.gd
+res://scences/ui/end_screen.gd
+res://resources/tileset.tres
+res://scences/component/hit_flash_component.gdshader
+res://ui/vignette.gdshader
+res://scences/ui/option_menu.tscn
